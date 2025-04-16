@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TogetherWeAwaken
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Together-We-Awaken
 My Spritual Website
->>>>>>> b3a0c72535e5ca8c637c175ccfefe2009b73b73b
